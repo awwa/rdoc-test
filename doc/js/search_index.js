@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["fuga","method1()","method2()"],"longSearchIndex":["fuga","fuga#method1()","fuga#method2()"],"info":[["Fuga","","Fuga.html","","<p>This is Fuga class\n"],["method1","Fuga","Fuga.html#method-i-method1","()","<p>This is method1\n"],["method2","Fuga","Fuga.html#method-i-method2","()","<p>This is method2\n"]]}}
